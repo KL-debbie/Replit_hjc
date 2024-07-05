@@ -1,0 +1,2 @@
+run = "index.html"
+modules = ["nodejs-20"]
